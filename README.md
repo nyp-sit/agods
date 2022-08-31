@@ -36,7 +36,8 @@ file i/o? os path, list dir, glob, etc.
   
 ## Day 4 (EDA) 
   - statistics and probabliity 
-  - feature engineering (log transformation, combining variables, etc) 
+  - feature engineering (log transformation, combining variables, scaling, normalization, etc)
+  - 
   
 
 
