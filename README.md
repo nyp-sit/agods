@@ -6,7 +6,7 @@ AGO Data Science Course Repo
 ## Day 1
 ### AM 
 - Environment setup (Anaconda etc) - (0.5 hr) 
-- Colaboratory/Jupyter (1 hr) - markdown, code cell, run, runtime, file upload drive mount etc.
+- Colaboratory/Jupyter (30 minutes) - markdown, code cell, run, runtime, file upload drive mount etc.
 - Python basics:  variables, data type, assignment, operations, arithmetics, string operations  (1 hr) 
 file i/o? os path, list dir, glob, etc.
 
